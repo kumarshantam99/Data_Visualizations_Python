@@ -28,5 +28,5 @@ Strong regression trend graph
 ![title](lollipop.png)
 Lollipop graph
 
-![title](linechart_multiple)
+![title](linechart_multiple.png)
 Multiple Lines chart
